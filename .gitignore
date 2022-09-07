@@ -1,0 +1,13 @@
+# Library files
+libft.a
+libft.so
+
+# Test files
+main.c
+*.out
+
+# Object files
+*.o
+
+# VScode
+.vscode
